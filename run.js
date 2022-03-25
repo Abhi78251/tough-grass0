@@ -3,8 +3,8 @@ var images = [];	// Images Array
 var time = 2000;	// Time Between Switch
 
 // Image List
-images[0] = "SoreSoulfulBlackmamba-size_restricted.gif";
-images[1] = "bc02fee1ff220972b58ef1b93eef47b8.gif";
+images[0] = "take_care.gif";
+images[1] = "coffee.gif";
 images[2] = "giphy.gif";
 
 
